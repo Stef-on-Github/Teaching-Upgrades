@@ -12,8 +12,8 @@ Teaching Upgrades aims to simplify the process of finding valuable resources for
 - Responsive design for seamless browsing across various devices.
 
 ## Usage
-Download the "Project" Folder.
-Open the "Project" Folder.
+Download the code as Zip Folder
+Extract and Open the Zip Folder and Enter the Zip Folder (Extracted)
 To use Teaching Upgrades, simply open "index.html" in a web browser. You can click on the links provided in each section to visit the corresponding resources. Feel free to explore and discover new tools and platforms that can support your teaching journey.
 
 ## Contributing
